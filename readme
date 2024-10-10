@@ -1,5 +1,14 @@
 Delaware North: Take-Home Assignment
 
+This project includes ‘main.py’, which is the initial scaffolding for your solution.
+The `ttpd_data.zip’ file is your dataset.
+This directory, once unzipped, will serve as your source file dataset that will need to be ingested and analyzed.
+Make sure to utilize the Spark DataFrame API for the core of your solution; beyond that, you may use additional Python libraries as you see fit.
+If you are using a Windows machine for this assignment, you may have some issues setting up Spark. If so, feel free to use this docker image to set up a local environment: https://hub.docker.com/r/jupyter/all-spark-notebook/.
+Please save all code, results, and documentation to a git repository (e.g., GitHub, Bitbucket) that is available for us to access and review prior to our follow-up call to discuss your solution.
+Feel free to reach out with any questions or issues if any arise.
+The overall timeline for this assignment is 2-3 days, or 8 hours of work total.
+
 Technical Prerequisites:
   - Python 3+
   - Spark: pip install delta-spark
