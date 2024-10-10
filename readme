@@ -9,6 +9,10 @@ Please save all code, results, and documentation to a git repository (e.g., GitH
 Feel free to reach out with any questions or issues if any arise.
 The overall timeline for this assignment is 2-3 days, or 8 hours of work total.
 
+1) Clone the repository locally.
+2) Create a feature branch off main.
+3) Submit a PR with comments about your update, along with any screenshots or outputs that would be helpful in the PR for testing.
+
 Technical Prerequisites:
   - Python 3+
   - Spark: pip install delta-spark
